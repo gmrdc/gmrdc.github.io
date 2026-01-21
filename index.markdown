@@ -6,4 +6,3 @@ layout: home
 title: null
 ---
 
-# Gruppe Morgenröthe /<br>Dawn Collective
